@@ -13,7 +13,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ғᴏʀᴋ+ᴛʜɪs+sʜɪᴢᴜ+ᴍᴜsɪᴄ+ʀᴇᴘᴏ+ʙᴇғᴏʀᴇ+ᴅᴇᴘʟᴏʏ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ғᴏʀᴋ+ᴛʜɪs+ᴍᴜsɪᴄ+ʀᴇᴘᴏ+ʙᴇғᴏʀᴇ+ᴅᴇᴘʟᴏʏ)
 
 ## ⚠️ 𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
