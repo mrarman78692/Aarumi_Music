@@ -1,5 +1,5 @@
 <h2 align="center">
-   ☉ sʜɪᴢᴜ ꭙ ᴍᴜsᴄɪ ☉
+   ☉ sʜɪᴢᴜ ꭙ ᴍᴜsɪᴄ ☉
 
 </h2>
 
@@ -13,7 +13,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fᴏʀᴋ+ᴛʜɪs+sʜɪᴢᴜ+ᴍᴜsɪᴄ+ʙᴏᴛ+ʀᴇᴘᴏ+ʙᴇғᴏʀᴇ+ᴅᴇᴘʟᴏʏ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ғᴏʀᴋ+ᴛʜɪs+sʜɪᴢᴜ+ᴍᴜsɪᴄ+ʀᴇᴘᴏ+ʙᴇғᴏʀᴇ+ᴅᴇᴘʟᴏʏ)
 
 ## ⚠️ 𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
