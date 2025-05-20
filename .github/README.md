@@ -43,7 +43,7 @@
 <a href="https://telegram.me/SHIVANSHDEVS"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐀𝐁𝐔𝐒𝐄𝐑»𝐊𝐀𝐑𝐌𝐀%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/ITSZ_SHIVANSH"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Oyy_Anonymous"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
