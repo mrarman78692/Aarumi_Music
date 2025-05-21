@@ -21,7 +21,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-## 🖇 Generating Pyrogram String Session
+## 🖇 ɢᴇɴʀᴀᴛɪɴɢ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
 
 <p>
 <a href="https://t.me/StringSesssionGeneratorRobot-Gen"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
