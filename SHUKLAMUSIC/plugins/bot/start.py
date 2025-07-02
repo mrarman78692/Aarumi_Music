@@ -28,36 +28,18 @@ from config import BANNED_USERS
 from strings import get_string
 
 SHASHANK_PIC = [
-    "https://files.catbox.moe/5cuzm5.jpg",
-    "https://files.catbox.moe/qycs0i.jpg",
-    "https://files.catbox.moe/7tg6zk.jpg",
-    "https://files.catbox.moe/w0dngl.jpg",
-    "https://files.catbox.moe/zql8u2.jpg",
-    "https://files.catbox.moe/12ygiy.jpg",
-    "https://files.catbox.moe/ibgpvm.jpg",
-    "https://files.catbox.moe/05qf8b.jpg",
-    "https://files.catbox.moe/u5x99o.jpg",
-    "https://files.catbox.moe/pcdny9.jpg",
-    "https://files.catbox.moe/evstis.jpg",
-    "https://files.catbox.moe/vblpiq.jpg",
-    "https://files.catbox.moe/h9dhs3.jpg",
-    "https://files.catbox.moe/dhoo0u.jpg",
-    "https://files.catbox.moe/lezqrq.jpg",
-    "https://files.catbox.moe/hacsmw.jpg",
-    "https://files.catbox.moe/hflhds.jpg",
-    "https://files.catbox.moe/12ygiy.jpg",
-    "https://files.catbox.moe/zql8u2.jpg",
-    "https://files.catbox.moe/0hcgwd.jpg",
-    "https://files.catbox.moe/j9td8o.jpg",
-    "https://files.catbox.moe/zsazmm.jpg",
-    "https://files.catbox.moe/zbneu6.jpg",
-    "https://files.catbox.moe/su3e5t.jpg",
-    "https://files.catbox.moe/vd661q.jpg",
-    "https://files.catbox.moe/ybbg1f.jpg",
-    "https://files.catbox.moe/q7fez3.jpg",
-    "https://files.catbox.moe/h2jzlo.jpg",
-    "https://files.catbox.moe/66jufo.jpg"
-]
+SHASHANK_VD = ["https://telegra.ph/file/89c5023101b65f21fb401.mp4",
+          "https://telegra.ph/file/bbc914cce6cce7f607641.mp4",
+          "https://telegra.ph/file/abc578ecc222d28a861ba.mp4",
+          "https://telegra.ph/file/065f40352707e9b5b7c15.mp4",
+          "https://telegra.ph/file/52ceaf02eae7eed6c9fff.mp4",
+          "https://telegra.ph/file/299108f6ac08f4e65e47a.mp4",
+          "https://telegra.ph/file/7a4e08bd04d628de71fc1.mp4",
+          "https://telegra.ph/file/0ad8b932fe5f7684f941c.mp4",
+          "https://telegra.ph/file/95ebe2065cfb1ac324a1c.mp4",
+          "https://telegra.ph/file/98cf22ccb987f9fedac5e.mp4",
+          "https://telegra.ph/file/f1b1754fc9d01998f24df.mp4",
+          "https://telegra.ph/file/421ee22ed492a7b8ce101.mp4"]
 
 SHASHANK_PH = [
     "https://files.catbox.moe/jrupn9.jpg",
