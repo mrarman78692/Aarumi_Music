@@ -1,5 +1,5 @@
 <h2 align="center">
-     ──「 ᴧᴧʀᴜᴍɪ ✘ ᴍᴜsɪᴄ 」──
+     ──「 ǫᴧʏᴧᴍᴧᴛ ꭙ мᴜѕɪᴄ 」──
 </h2>
 
 <p align="center"><a href="https://t.me/Swagger_Soul"><img src="https://files.catbox.moe/6rt2px.jpg"></a></p>
